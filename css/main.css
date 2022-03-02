@@ -253,29 +253,11 @@ box-sizing: border-box;
 }
 
 
-.card-sale-three {
-  height: 700px;
-padding: 20px 50px;
-border-radius: 10px;
-border: 2px solid #DDDDDD;
-margin: auto;
-}
-.card-sale-one{
-  height: 700px;
-padding: 20px 50px;
-border-radius: 10px;
-border: 2px solid #DDDDDD;
-margin: auto;
-}
-.card-sale-two{
-  height: 700px;
-padding: 20px 50px;
-border-radius: 10px;
-border: 2px solid #DDDDDD;
 
 
 
-}
+
+
 
 .card-sale a{
   text-decoration: none;
